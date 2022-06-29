@@ -1,2 +1,2 @@
 # Projeto-HTML-CSS
-Projeto de criação de um site pessoal, rodando no meu localhost, usando as linguagens HTML5/CSS3
+Código da criação de projeto de um site pessoal, rodando no meu localhost, usando as linguagens HTML5/CSS3
